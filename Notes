@@ -1,0 +1,4 @@
+Section 1 - Intro
+    - process is like document, and global is like window
+    - node is a js runtime that uses v8 engine, v8 engine is an opens ource js engine that takes
+    js code and compiles it into machine code
